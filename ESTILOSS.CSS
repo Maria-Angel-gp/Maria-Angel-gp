@@ -85,7 +85,7 @@ header a:hover{
     text-align: center;
     flex-direction: column;
     height: 40vh;
-    background-image:url("./Multimedia/pagina\ papa-02.png");
+    background-image:url("./pagina\ papa-02.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -94,7 +94,7 @@ header a:hover{
 #Qsomos .contenedor{
     text-align: center;
     padding: 10px 0px;
-    background-image: url("./Multimedia/imagen_3_1@1000x.png");
+    background-image: url("./imagen_3_1@1000x.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -102,7 +102,7 @@ header a:hover{
 
 
 #cajas{
-    background-image: url("./Multimedia/imagen_4@1000x.png");
+    background-image: url("./imagen_4@1000x.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -191,7 +191,7 @@ footer{
     }
 
     #Qsomos .img-contenedor{
-        background-image: url("./Multimedia/imagen_2@1000x.png");
+        background-image: url("./imagen_2@1000x.png");
         background-size: cover;
         background-position: center center;
         height: 700px;
